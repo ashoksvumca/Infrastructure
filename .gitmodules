@@ -1,4 +1,4 @@
 [submodule "morning_batch8"]
-	path = morning_batch8
+	path = morning_batch8/common
 	url = https://github.com/ashoksvumca/morning_batch8.git
 	exclude = 'dev'
