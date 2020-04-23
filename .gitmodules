@@ -1,4 +1,3 @@
-[submodule "morning_batch8/common"]
-	path = morning_batch8/common
+[submodule "morning_batch8"]
+	path = morning_batch8
 	url = https://github.com/ashoksvumca/morning_batch8.git
-	exclude = 'dev'
