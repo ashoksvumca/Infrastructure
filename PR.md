@@ -1,8 +1,11 @@
 ### Before creating a pull request:
 
-```diff
+
 - [ ]  **PR with any merge commits, fail**
-- A PR with any merge commits will fail PR validation, even if the local validation passes. Be sure to not have any merge commits in your PR. If your PR has any merge commit, please close it and open a new PR without any merge commits.
+```diff
+- A PR with any merge commits will fail PR validation, even if the local validation passes. 
+- Be sure to not have any merge commits in your PR. If your PR has any merge commit, 
+- please close it and open a new PR without any merge commits.
 ```
 - [ ]  **Run local validation**
 See instructions [here].  
