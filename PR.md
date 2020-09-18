@@ -1,9 +1,10 @@
 ### Before creating a pull request:
 
+<p style='color:red'>
 - [ ]  **Run local validation**
 See instructions [here]).  
 ***Note:*** The validator only validates the syntax and syntactically correct templates may still be rejected by Spinnaker.
-
+</p>
 - [ ]  **Do not remove keys in application.j2**
 Spinnaker treats all updates to application JSONs strictly as a delta. It cannot determine how to treat keys that are present in its current JSON but missing from the incoming JSON.  Adjust the value of a key instead of removing it.
 
